@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1022
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "STL_Allocator", "STL_Allocator\STL_Allocator.vcxproj", "{9045C5AC-E520-45D7-8CAE-D628813007D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9045C5AC-E520-45D7-8CAE-D628813007D7}.Debug|x64.ActiveCfg = Debug|x64
+		{9045C5AC-E520-45D7-8CAE-D628813007D7}.Debug|x64.Build.0 = Debug|x64
+		{9045C5AC-E520-45D7-8CAE-D628813007D7}.Debug|x86.ActiveCfg = Debug|Win32
+		{9045C5AC-E520-45D7-8CAE-D628813007D7}.Debug|x86.Build.0 = Debug|Win32
+		{9045C5AC-E520-45D7-8CAE-D628813007D7}.Release|x64.ActiveCfg = Release|x64
+		{9045C5AC-E520-45D7-8CAE-D628813007D7}.Release|x64.Build.0 = Release|x64
+		{9045C5AC-E520-45D7-8CAE-D628813007D7}.Release|x86.ActiveCfg = Release|Win32
+		{9045C5AC-E520-45D7-8CAE-D628813007D7}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A8D0A88-B9C5-43C2-A216-8B9012CDFBBA}
+	EndGlobalSection
+EndGlobal

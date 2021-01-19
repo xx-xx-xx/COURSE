@@ -1,0 +1,4 @@
+which date do you want to remove? format[yyy-mm-dd] like 1999-9-9
+2020-04-25
+Successfully removed.
+0

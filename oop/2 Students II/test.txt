@@ -1,0 +1,3 @@
+1       K.Weng  physics 5 chinese  5  maths   5 computer -1
+2       T.Dixon  physics -1 chinese  3  maths   2 computer -1
+3       V.Chu   physics 4 chinese  4  maths   -1 computer 3

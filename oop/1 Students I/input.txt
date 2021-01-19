@@ -1,0 +1,8 @@
+1       K.Weng  5       5       5     
+2       T.Dixon 4       3       2     
+3       V.Chu   3       4       5    
+4       L.Tson  4       3       4     
+5       L.Lee   3       4       3      
+6       I.Young 4       2       5   
+7       K.Hiro  4       2       1     
+8       G.Ping  4       4       4     
