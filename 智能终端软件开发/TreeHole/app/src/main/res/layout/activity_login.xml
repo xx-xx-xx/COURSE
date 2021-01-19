@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+把整个Activity_login的布局设置成相对布局
+-->
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#eeeeee"
+    tools:context=".loginActivity">
+<!--
+在整体上方放三个东西
+合在一起称为一个top
+一个返回箭头   ←
+两个文字显示   登录  注册
+-->
+    <RelativeLayout
+        android:id="@+id/rl_loginactivity_top"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:background="@color/color_minefragment_top" >
+    <ImageView
+        android:id="@+id/iv_loginactivity_back"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:background="@drawable/ic_left_back"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="10dp"
+        android:clickable="true"
+        android:onClick="onClick"
+        />
+
+    <TextView
+        android:id="@+id/tv_loginactivity_login"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="登录"
+        android:textColor="#fff"
+        android:textSize="20dp"
+        android:layout_toRightOf="@+id/iv_loginactivity_back"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="20dp"
+        />
+    <TextView
+        android:id="@+id/tv_loginactivity_register"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="注册"
+        android:textColor="#fff"
+        android:textSize="20dp"
+        android:layout_centerVertical="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="30dp"
+        android:clickable="true"
+        android:onClick="onClick"
+        />
+    </RelativeLayout>
+<!--
+ 登录时候的两个文本输入框
+ 用户名
+ 密码
+ LinerLayout指明orientation 方向垂直vertical
+ -->
+    <LinearLayout
+        android:id="@+id/ll_loginactivity_two"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_below="@+id/rl_loginactivity_top"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <TextView
+                android:id="@+id/tv_loginactivity_username"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="用户名："/>
+            <EditText
+                android:id="@+id/et_loginactivity_username"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="手机号/邮箱/用户名"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <TextView
+                android:id="@+id/tv_loginactivity_password"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="密    码："/>
+            <EditText
+                android:id="@+id/et_loginactivity_password"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="登录密码"
+                android:inputType="textPassword"/>
+        </LinearLayout>
+    </LinearLayout>
+<!--
+  点击登录按钮了
+  -->
+    <Button
+        android:id="@+id/bt_loginactivity_login"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/ll_loginactivity_two"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="273dp"
+        android:layout_marginRight="5dp"
+        android:background="@drawable/selector_loginactivity_button"
+        android:gravity="center"
+        android:onClick="onClick"
+        android:text="登录"
+        android:textColor="#fff" />
+</RelativeLayout>
