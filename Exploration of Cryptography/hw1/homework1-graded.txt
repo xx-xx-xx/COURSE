@@ -1,0 +1,15 @@
+homework1-3180105507-graded.txt
+
+1.1    10
+    That is the most detailed proof anyone has offered.
+
+1.2    10
+
+1.3     7
+    The figure for cipher rotors is a bit low; it's actually about 2.43.
+
+1.4    10
+
+1.5    10
+
+
