@@ -1,0 +1,54 @@
+{
+  "compilerOptions": {
+    "charset": "utf8",
+    "removeComments": true,
+    "preserveConstEnums": true,
+    "diagnostics": true,
+    "allowJs": true, // 允许编译javascript文件
+    "declaration": true, //生成相应的 .d.ts文件（类似Objc中的.h文件）
+    "declarationDir": "./@types", //单独为头文件指定存放的位置np
+    "target": "esnext",
+    "module": "esnext",
+    "strict": true,
+    "jsx": "preserve",
+    "importHelpers": true,
+    "moduleResolution": "node",
+    "experimentalDecorators": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "sourceMap": true,
+    "noImplicitThis": true,
+    "baseUrl": ".",
+    "types": [
+      "webpack-env",
+      "jest"
+    ],
+    "paths": {
+      "@/*": [
+        "src/*"
+      ]
+    },
+    "lib": [
+      "esnext",
+      "dom",
+      "dom.iterable",
+      "scripthost"
+    ]
+  },
+  "include": [
+    "src/**/*.ts",
+    "src/**/*.tsx",
+    "src/**/*.vue",
+    "src/**/**/*.vue",
+    "tests/*.ts",
+    "tests/*.tsx",
+    "src/vis-libs/helper/watcher.js", "src/base/utils/smooth-curve.js"
+  ],
+  "exclude": [
+    "node_modules"
+  ],
+  "types": [
+    "d3",
+    "lodash"
+  ]
+}
