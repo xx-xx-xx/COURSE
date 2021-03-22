@@ -1,0 +1,154 @@
+Start performance test:
+after insert key=0 value=0
+Level0	0:0
+
+after insert key=1 value=1
+Level0	1:1
+Level1	0:0  1:1
+
+after insert key=2 value=2
+Level0	1:1
+Level1	0:0  1:1  2:2
+
+after insert key=3 value=3
+Level0	3:3
+Level1	1:1  3:3
+Level2	0:0  1:1  2:2  3:3
+
+after insert key=4 value=4
+Level0	4:4
+Level1	3:3  4:4
+Level2	1:1  3:3  4:4
+Level3	0:0  1:1  2:2  3:3  4:4
+
+after insert key=5 value=5
+Level0	4:4
+Level1	3:3  4:4
+Level2	1:1  3:3  4:4
+Level3	0:0  1:1  2:2  3:3  4:4  5:5
+
+after insert key=6 value=6
+Level0	4:4
+Level1	3:3  4:4
+Level2	1:1  3:3  4:4
+Level3	0:0  1:1  2:2  3:3  4:4  5:5  6:6
+
+after insert key=7 value=7
+Level0	4:4
+Level1	3:3  4:4
+Level2	1:1  3:3  4:4
+Level3	0:0  1:1  2:2  3:3  4:4  5:5  6:6  7:7
+
+after insert key=8 value=8
+Level0	4:4
+Level1	3:3  4:4
+Level2	1:1  3:3  4:4
+Level3	0:0  1:1  2:2  3:3  4:4  5:5  6:6  7:7  8:8
+
+after insert key=9 value=9
+Level0	4:4
+Level1	3:3  4:4
+Level2	1:1  3:3  4:4
+Level3	0:0  1:1  2:2  3:3  4:4  5:5  6:6  7:7  8:8  9:9
+
+after delete key=0 value=0
+Level0	4:4
+Level1	3:3  4:4
+Level2	1:1  3:3  4:4
+Level3	1:1  2:2  3:3  4:4  5:5  6:6  7:7  8:8  9:9
+
+after delete key=1 value=1
+Level0	4:4
+Level1	3:3  4:4
+Level2	3:3  4:4
+Level3	2:2  3:3  4:4  5:5  6:6  7:7  8:8  9:9
+
+after delete key=2 value=2
+Level0	4:4
+Level1	3:3  4:4
+Level2	3:3  4:4
+Level3	3:3  4:4  5:5  6:6  7:7  8:8  9:9
+
+after delete key=3 value=3
+Level0	4:4
+Level1	4:4
+Level2	4:4
+Level3	4:4  5:5  6:6  7:7  8:8  9:9
+
+after delete key=4 value=4
+Level0	4:4
+Level1	4:4  5:5  6:6  7:7  8:8  9:9
+
+after search key=6 value=6
+exist!
+after search key=7 value=7
+exist!
+after search key=8 value=8
+exist!
+after search key=9 value=9
+exist!
+after search key=10 value=10
+not exist!
+after search key=11 value=11
+not exist!
+
+Start run time test:
+Now handling 0
+Now handling 1
+Now handling 2
+Now handling 3
+Now handling 4
+Now handling 5
+Now handling 6
+Now handling 7
+Now handling 8
+Now handling 9
+Now handling 10
+Now handling 11
+Now handling 12
+Now handling 13
+Search:------------------------------
+0.037
+0.001
+0.001
+0.001
+0.001
+0.001
+0.001
+0.002
+0.001
+0.002
+0.003
+0.004
+1.351
+0.006
+Insertion:----------------------------
+0.215
+0.060
+0.074
+0.086
+0.093
+0.102
+0.129
+0.154
+0.167
+0.191
+0.268
+0.347
+7.369
+0.766
+Deletion:-----------------------------
+0.207
+0.114
+0.134
+0.158
+0.187
+0.213
+0.246
+0.295
+0.363
+0.417
+0.572
+0.887
+8.308
+2.244
