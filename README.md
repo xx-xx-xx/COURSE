@@ -28,18 +28,23 @@
 
 ### 大二上
 
-- Introduction to Artificial Intelligence with Robotics and Machine Learning Lab
+- 数据结构基础
 - 图像信息处理
 
 ### 大二下
 
 - 面向对象程序设计
-- 华为
+- 高级数据结构与算法分析
+- 华为鲲鹏应用数据分析与管理实战
   
 ### 大三上
 
-- 华为鲲鹏应用数据分析与管理实战
 - 智能终端软件开发
 - 信息可视化
 - 计算机网络
 - Exploration of Cryptography
+
+### 小学期
+
+- Introduction to Artificial Intelligence with Robotics and Machine Learning Lab
+- 华为鲲鹏应用数据分析与管理实战
