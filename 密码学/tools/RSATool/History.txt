@@ -1,0 +1,49 @@
+RSA Tool 2 Version History
+--------------------------
+# (Jun-06-2004) v1.10
+- Thanks to Mac:
+  Corrected an issue with the "Reverse" number function.
+- Hex characters aren't automatically uppercase'd anymore
+  when you click the "Reverse" button.
+- Fixed an issue with base64 to hex conversion when the
+  base64 number ended with one or more characters which
+  are not part of the base64 charset (terminating "="
+  for example). base64.c updated as well.
+
+# (Mar-27-2004) v1.9
+- on request (Li2000):
+  Base16 (Hex) Mode does now allow to enter lowercase
+  characters "a"-"f" for hex-numbers.
+
+# (Feb-21-2004) v1.8
+- on request (Thigo):
+  supporting user defined table for Base64 charset -
+  Edit charset in file 'base64.dat' to define your
+  own set.
+
+# (May-26-2002) v1.7
+- minor bugfixes
+- random number generator improved
+- added "R" button to reverse hex. number strings
+  ( e.g. "123456AF" -> "AF563412" )
+- on request: now supporting E to be a big integer
+  (was limited to 'int' in previous versions)
+
+v1.6 hasn't been published.
+
+# (Oct-04-2001) v1.5
+- random data generation improved (seedfile support)
+- code updated to mircal 4.45
+
+v1.3 - 1.4 haven't been published.
+
+# (Jan-08-2001) v1.2
+- some minor bug fixes
+
+# (Dec-16-2000) v1.1
+- lots of bugs fixed in the base conversion routines
+- improved error checkings
+- fixed memory leak
+
+# (Dec-12-2000) v1.0
+- First public release.
