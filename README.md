@@ -46,6 +46,10 @@
 - 计算机网络
 - Exploration of Cryptography
 
+### 大三下
+
+- 网络安全原理与实践
+
 ### 小学期
 
 - Introduction to Artificial Intelligence with Robotics and Machine Learning Lab
