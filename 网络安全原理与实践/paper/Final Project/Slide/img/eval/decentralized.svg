@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1920" height="1080" inkscape:version="1.0 (4035a4fb49, 2020-05-01)" sodipodi:docname="Decentralization-vs-Centralization_diagram.svg" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd">
+ <title>Decentralization Diagram</title>
+ <sodipodi:namedview id="base" bordercolor="#666666" borderlayer="true" borderopacity="1.0" fit-margin-bottom="0" fit-margin-left="0" fit-margin-right="0" fit-margin-top="0" inkscape:bbox-nodes="false" inkscape:bbox-paths="false" inkscape:current-layer="svg2" inkscape:cx="1019.243" inkscape:cy="410.54557" inkscape:document-rotation="0" inkscape:document-units="px" inkscape:object-nodes="false" inkscape:object-paths="true" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:showpageshadow="false" inkscape:snap-bbox="false" inkscape:snap-bbox-edge-midpoints="false" inkscape:snap-bbox-midpoints="false" inkscape:snap-center="true" inkscape:snap-global="true" inkscape:snap-intersection-paths="true" inkscape:snap-midpoints="false" inkscape:snap-object-midpoints="false" inkscape:snap-smooth-nodes="false" inkscape:window-height="1017" inkscape:window-maximized="1" inkscape:window-width="1920" inkscape:window-x="1672" inkscape:window-y="-8" inkscape:zoom="0.43317489" pagecolor="#ffffff" showgrid="false"/>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>Decentralization Diagram</dc:title>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/"/>
+    <dc:date>21 September 2020</dc:date>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Gwen Hope</dc:title>
+     </cc:Agent>
+    </dc:creator>
+    <dc:publisher>
+     <cc:Agent>
+      <dc:title>Wikimedia Commons</dc:title>
+     </cc:Agent>
+    </dc:publisher>
+    <dc:description>Derivative work from other CC BY-SA 4.0 charts</dc:description>
+   </cc:Work>
+   <cc:License rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+    <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+    <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+    <cc:requires rdf:resource="http://creativecommons.org/ns#Notice"/>
+    <cc:requires rdf:resource="http://creativecommons.org/ns#Attribution"/>
+    <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+    <cc:requires rdf:resource="http://creativecommons.org/ns#ShareAlike"/>
+   </cc:License>
+  </rdf:RDF>
+ </metadata>
+ <g transform="matrix(3.5054 0 0 3.5054 -553.42 -2603.5)" inkscape:label="Whole Diagram">
+  <g transform="translate(-13.171)" inkscape:label="Centralized">
+   <g transform="rotate(90 323.23 884.1)" stroke="#000" inkscape:label="Centralized Network">
+    <path d="m226.4 925.4 112.75-17.742-91.414 43.586" fill="none" stroke-width="2" inkscape:connector-curvature="0" sodipodi:nodetypes="ccc"/>
+    <path d="m238.47 902 100.67 5.6614-70.774 71.379" fill="none" stroke-width="2" inkscape:connector-curvature="0" sodipodi:nodetypes="ccc"/>
+    <g>
+     <circle cx="303.19" cy="979.39" r="3.0051" stroke-width="1.3999"/>
+     <circle transform="matrix(1.3999 0 0 1.3999 107.82 -414.87)" cx="179.93" cy="1009.3" r="2.1466"/>
+     <circle cx="238.88" cy="902" r="3.0051" stroke-width="1.3999"/>
+     <circle transform="matrix(1.3999 0 0 1.3999 124.24 -430.22)" cx="179.93" cy="1009.3" r="2.1466"/>
+     <circle transform="matrix(1.3999 0 0 1.3999 137.67 -451.85)" cx="179.93" cy="1009.3" r="2.1466"/>
+     <circle transform="matrix(1.3999 0 0 1.3999 147.66 -487.93)" cx="179.93" cy="1009.3" r="2.1466"/>
+     <circle transform="matrix(1.3999 0 0 1.3999 139.06 -509.14)" cx="179.93" cy="1009.3" r="2.1466"/>
+     <circle transform="matrix(1.3999 0 0 1.3999 146.69 -534.37)" cx="179.93" cy="1009.3" r="2.1466"/>
+     <circle transform="matrix(1.3999 0 0 1.3999 120.28 -536.65)" cx="179.93" cy="1009.3" r="2.1466"/>
+     <circle transform="matrix(1.3999 0 0 1.3999 126.5 -568.97)" cx="179.93" cy="1009.3" r="2.1466"/>
+     <circle transform="matrix(1.3999 0 0 1.3999 126.43 -615.73)" cx="179.93" cy="1009.3" r="2.1466"/>
+     <circle transform="matrix(1.3999 0 0 1.3999 101.05 -599.25)" cx="179.93" cy="1009.3" r="2.1466"/>
+     <circle transform="matrix(1.3999 0 0 1.3999 85.026 -562.07)" cx="179.93" cy="1009.3" r="2.1466"/>
+     <circle transform="matrix(1.3999 0 0 1.3999 54.504 -613.62)" cx="179.93" cy="1009.3" r="2.1466"/>
+     <circle transform="matrix(1.3999 0 0 1.3999 48.552 -583.99)" cx="179.93" cy="1009.3" r="2.1466"/>
+     <circle transform="matrix(1.3999 0 0 1.3999 36.177 -565.62)" cx="179.93" cy="1009.3" r="2.1466"/>
+     <circle transform="matrix(1.3999 0 0 1.3999 37.447 -539.71)" cx="179.93" cy="1009.3" r="2.1466"/>
+     <g stroke-width="1.3999">
+      <circle cx="258.39" cy="883.85" r="3.0051"/>
+      <circle cx="224.69" cy="925.58" r="3.0051"/>
+      <circle cx="246.3" cy="951.3" r="3.0051"/>
+      <circle cx="268.98" cy="978.42" r="3.0051"/>
+     </g>
+    </g>
+    <g fill="none" stroke-width="2">
+     <path d="m376.14 982.74-36.993-75.08 50.907 53.967" inkscape:connector-curvature="0" sodipodi:nodetypes="ccc"/>
+     <path d="m339.14 907.66 27.571 17.199" inkscape:connector-curvature="0" sodipodi:nodetypes="cc"/>
+     <path d="m399.55 925.04-60.409-17.378 52.284-3.8716" inkscape:connector-curvature="0"/>
+     <path d="m339.14 907.66 60.141-29.407" inkscape:connector-curvature="0" sodipodi:nodetypes="cc"/>
+     <path d="m372.68 875.84-33.534 31.818 40.131-65.095" inkscape:connector-curvature="0" sodipodi:nodetypes="ccc"/>
+     <path d="m339.14 907.66 39.629-111.67" inkscape:connector-curvature="0" sodipodi:nodetypes="cc"/>
+     <path d="m339.14 907.66 13.799-93.943" inkscape:connector-curvature="0"/>
+     <path d="m336.92 850.89 2.2225 56.769-33.073-109.41" inkscape:connector-curvature="0"/>
+     <path d="m300.45 828.98 38.697 78.685-51.072-60.314" inkscape:connector-curvature="0"/>
+     <path d="m288.67 872.66 50.475 34.999-80.487-23.447" inkscape:connector-curvature="0" sodipodi:nodetypes="ccc"/>
+     <path d="m339.14 907.66-5.0096 72.731" inkscape:connector-curvature="0" sodipodi:nodetypes="cc"/>
+     <path d="m339.14 907.66 20.567 90.433" inkscape:connector-curvature="0" sodipodi:nodetypes="cc"/>
+    </g>
+    <g>
+     <circle cx="334.16" cy="980.04" r="3.0051" stroke-width="1.3999"/>
+     <path d="m339.14 907.66-35.956 71.723" stroke-width="2" inkscape:connector-curvature="0" sodipodi:nodetypes="cc"/>
+     <circle transform="matrix(1.3999 0 0 1.3999 113.8 -488.74)" cx="179.93" cy="1009.3" r="2.1466"/>
+    </g>
+    <circle transform="translate(6.9018 4.7684)" cx="332.24" cy="902.89" r="6.6856" fill="#4d4d4d" stroke-width="2"/>
+   </g>
+   <text x="309.57858" y="1011.2506" fill="#000000" font-family="monospace" font-size="26.667px" letter-spacing="0px" stroke-width=".73635" text-anchor="middle" word-spacing="0px" style="line-height:1.25" inkscape:label="Centralized Label" xml:space="preserve"><tspan x="309.57858" y="1011.2506" sodipodi:role="line">CENTRALIZED</tspan></text>
+  </g>
+  <g transform="translate(17.781)" inkscape:label="Decentralized">
+   <g transform="rotate(90 514.61 932.26)" stroke="#000" inkscape:label="Decentralized Network">
+    <path d="m406.94 970.02 31.742-18.859" fill="none" stroke-width="1.5" inkscape:connector-curvature="0" sodipodi:nodetypes="cc"/>
+    <path d="m408.52 912.02 29.722 38.854" fill="none" stroke-width="1.5" inkscape:connector-curvature="0" sodipodi:nodetypes="cc"/>
+    <g>
+     <circle cx="410.22" cy="1000.4" r="3.0051" stroke-width="1.3999"/>
+     <circle transform="matrix(1.3999 0 0 1.3999 252.77 -414.87)" cx="179.93" cy="1009.3" r="2.1466"/>
+     <circle cx="408.32" cy="912.2" r="3.0051" stroke-width="1.3999"/>
+     <circle transform="matrix(1.3999 0 0 1.3999 269.2 -430.22)" cx="179.93" cy="1009.3" r="2.1466"/>
+     <circle transform="matrix(1.3999 0 0 1.3999 282.63 -451.85)" cx="179.93" cy="1009.3" r="2.1466"/>
+     <circle transform="matrix(1.3999 0 0 1.3999 292.61 -487.93)" cx="179.93" cy="1009.3" r="2.1466"/>
+     <circle transform="matrix(1.3999 0 0 1.3999 284.02 -509.14)" cx="179.93" cy="1009.3" r="2.1466"/>
+     <circle transform="matrix(1.3999 0 0 1.3999 291.65 -534.37)" cx="179.93" cy="1009.3" r="2.1466"/>
+     <circle transform="matrix(1.3999 0 0 1.3999 265.24 -536.65)" cx="179.93" cy="1009.3" r="2.1466"/>
+     <circle transform="matrix(1.3999 0 0 1.3999 271.46 -568.97)" cx="179.93" cy="1009.3" r="2.1466"/>
+     <circle transform="matrix(1.3999 0 0 1.3999 271.39 -615.73)" cx="179.93" cy="1009.3" r="2.1466"/>
+     <circle transform="matrix(1.3999 0 0 1.3999 246 -599.25)" cx="179.93" cy="1009.3" r="2.1466"/>
+     <g stroke-width="1.3999">
+      <circle cx="446.55" cy="853.48" r="3.0051"/>
+      <circle cx="415.04" cy="803.83" r="3.0051"/>
+      <circle cx="409.08" cy="833.47" r="3.0051"/>
+      <circle cx="396.71" cy="851.84" r="3.0051"/>
+      <circle cx="397.98" cy="877.74" r="3.0051"/>
+      <circle cx="399.27" cy="897.32" r="3.0051"/>
+      <circle cx="395.36" cy="928.44" r="3.0051"/>
+      <circle cx="398.6" cy="949.26" r="3.0051"/>
+      <circle cx="406.8" cy="969.66" r="3.0051"/>
+     </g>
+     <circle transform="matrix(1.3999 0 0 1.3999 227.25 -447.53)" cx="179.93" cy="1009.3" r="2.1466"/>
+     <circle transform="matrix(1.3999 0 0 1.3999 258.76 -488.74)" cx="179.93" cy="1009.3" r="2.1466"/>
+    </g>
+    <g stroke-width="1.5">
+     <path d="m484.1 907.66 51.811-3.8366" fill="#00f" inkscape:connector-curvature="0"/>
+     <path d="m522.77 797.43-23.321 16.256" fill="#00f" inkscape:connector-curvature="0" sodipodi:nodetypes="cc"/>
+     <path d="m534.52 961.11-13.428 21.627-16.426 15.354" fill="none" inkscape:connector-curvature="0"/>
+    </g>
+    <g stroke-width="1.5">
+     <path d="m399.27 897.32-1.2907-19.574" inkscape:connector-curvature="0"/>
+     <path d="m409.08 833.47-12.374 18.371" inkscape:connector-curvature="0"/>
+     <path d="m409.08 833.47 5.9521-29.636" inkscape:connector-curvature="0"/>
+    </g>
+    <g stroke-width="1.5">
+     <path d="m497.9 813.72 6.6889 25.251-56.04 15.69" fill="none" inkscape:connector-curvature="0" sodipodi:nodetypes="ccc"/>
+     <path d="m504.59 838.97 18.763 5.0263" inkscape:connector-curvature="0"/>
+     <path d="m544.51 925.04-8.5979-21.215 7.6292-25.228" fill="none" inkscape:connector-curvature="0"/>
+     <path d="m517.13 876.32 18.78 27.505-25.258 20.4" fill="none" inkscape:connector-curvature="0"/>
+    </g>
+    <g stroke-width="1.3999">
+     <circle cx="504.59" cy="838.97" r="3.0051"/>
+     <circle cx="438.54" cy="951.4" r="3.0051"/>
+     <circle cx="484.1" cy="907.66" r="3.0051"/>
+    </g>
+    <path d="m484.09 907.77-45.883 42.894" fill="none" stroke-width="1.5" inkscape:connector-curvature="0" sodipodi:nodetypes="cc"/>
+    <g fill="#00f" stroke-width="1.5">
+     <path d="m408.75 833.42 39.875 21.161" inkscape:connector-curvature="0" sodipodi:nodetypes="cc"/>
+     <path d="m446.69 853.91-48.138 23.758" inkscape:connector-curvature="0" sodipodi:nodetypes="cc"/>
+     <path d="m523.6 844.38-7.1612 32.127" inkscape:connector-curvature="0" sodipodi:nodetypes="cc"/>
+     <path d="m520.57 983.18-10.335-59.637" inkscape:connector-curvature="0" sodipodi:nodetypes="cc"/>
+    </g>
+    <g fill="none" stroke-width="1.5">
+     <path d="m407.8 911.73-11.832 16.057" inkscape:connector-curvature="0" sodipodi:nodetypes="cc"/>
+     <path d="m407.08 969.88-8.0807-20.591" inkscape:connector-curvature="0" sodipodi:nodetypes="cc"/>
+     <path d="m504.58 997.71-25.106-31.845" inkscape:connector-curvature="0" sodipodi:nodetypes="cc"/>
+     <path d="m406.65 969.74 3.7506 30.774" inkscape:connector-curvature="0" sodipodi:nodetypes="cc"/>
+    </g>
+   </g>
+   <text x="547.97626" y="1011.2506" fill="#000000" font-family="monospace" font-size="26.667px" letter-spacing="0px" stroke-width=".73635" text-anchor="middle" word-spacing="0px" style="line-height:1.25" inkscape:label="Decentralized Label" xml:space="preserve"><tspan x="547.97626" y="1011.2506" sodipodi:role="line">DECENTRALIZED</tspan></text>
+  </g>
+ </g>
+</svg>
